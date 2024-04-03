@@ -13,12 +13,6 @@ As part of our practical exercises, we've included a Pomodoro script named tomat
 ## Description
 tomato.sh is a Bash script implementation of the Pomodoro Technique. It helps you manage your work sessions effectively by timing your work intervals and breaks.
 
-## Usage
-
-`./tomato.sh [FOCUS_TIME_MINUTES] [BREAK_TIME_MINUTES]`
-
-By default, the script sets the focus time to 25 minutes and the break time to 5 minutes. However, you can override these defaults by providing your desired focus and break times as arguments.
-
 ## Features
 
 - **Customizable Focus and Break Times:** Adjust the duration of your work sessions and breaks according to your preferences.
@@ -26,6 +20,8 @@ By default, the script sets the focus time to 25 minutes and the break time to 5
 - **Notification Alerts:** Receive notifications when each work session or break ends, keeping you on track with your schedule.
 
 ## Usage
+
+By default, the script sets the focus time to 25 minutes and the break time to 5 minutes. However, you can override these defaults by providing your desired focus and break times as arguments.
 
 1. Clone the repository:
    
